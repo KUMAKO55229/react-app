@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.pageStyle{
+ 
+  background-color: burlywood;
+  margin-top: -22px;
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
